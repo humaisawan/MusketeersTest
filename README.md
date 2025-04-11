@@ -1,3 +1,10 @@
+Project Setup:
+1- Clone the Repo
+2- run 'npm i'
+3- run 'npm start'
+
+
+
 config.env sample:
 
 CONN_STR =
