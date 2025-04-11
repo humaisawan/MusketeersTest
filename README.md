@@ -1,11 +1,12 @@
-Project Setup:
+***Project Setup***:
 1- Clone the Repo
 2- run 'npm i'
 3- run 'npm start'
 
 
 
-config.env sample:
+**Config.env Sample:***
+create config.env file with below properties
 
 CONN_STR =
 PORT = 
